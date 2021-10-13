@@ -5,19 +5,19 @@ Real-time Adaptive Point Matching using ORB according to Feature Extraction Meth
 ## Abstract
 
 <p align="center">
-<img src="imgs/abstract.png">
+<img src="docs/abstract.png">
 </p>
 
 ## Datset
 
 <p align="center">
-<img src="imgs/dataset.png">
+<img src="docs/dataset.png">
 </p>
 
 ## Feature Extraction Method
 
 <p align="center">
-<img src="imgs/feature.png">
+<img src="docs/feature.png">
 </p>
 
 ## Classification
@@ -67,13 +67,13 @@ Real-time Adaptive Point Matching using ORB according to Feature Extraction Meth
 ## Framework
 
 <p align="center">
-<img src="imgs/framework.png">
+<img src="docs/framework.png">
 </p>
 
 ## Experiment
 
 <p align="center">
-<img src="imgs/experiment.png">
+<img src="docs/experiment.png">
 </p>
 
 ## Failure Case - Pose Estimation
