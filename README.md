@@ -40,9 +40,9 @@ Paper : **Object Pose Estimation based on ORB Algorithm according to Feature Ext
 ### RGB / Canny / Sobel 
 
 <p align="center">
-  <img src="result/rgb_case_pose_estimation.gif", width=33%>
-  <img src="result/canny_case_pose_estimation.gif", width=33%>
-  <img src="result/sobel_case_pose_estimation.gif", width=33%>
+  <img src="result/rgb_case_pose_estimation.gif", width=32%>
+  <img src="result/canny_case_pose_estimation.gif", width=32%>
+  <img src="result/sobel_case_pose_estimation.gif", width=32%>
 </p>
 
 ## Framework
