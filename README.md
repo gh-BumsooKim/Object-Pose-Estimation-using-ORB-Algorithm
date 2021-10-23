@@ -1,6 +1,12 @@
-# Point_Matching_ORB
+# Object Pose Estimation using ORB Algorithm
 
-Real-time Adaptive Point Matching using ORB according to Feature Extraction Method
+<p align="center">
+<img src="docs/experiment.png">
+</p>
+
+Paper : **Object Pose Estimation based on ORB Algorithm according to Feature Extraction Method, KISM2021-Fall** <br>
+
+<hr>
 
 ## Abstract
 
@@ -21,59 +27,28 @@ Real-time Adaptive Point Matching using ORB according to Feature Extraction Meth
 </p>
 
 ## Classification
-### RGB
+### RGB / Canny / Sobel / Laplacian+Dilation
 
 <p align="center">
-<img src="result/rgb_case_object_classification.gif">
-</p>
-
-### Canny
-
-<p align="center">
-<img src="result/canny_case_object_classification.gif">
-</p>
-
-### Sobel
-
-<p align="center">
-<img src="result/sobel_case_object_classification.gif">
-</p>
-
-### Laplacian + Dilation
-
-<p align="center">
-<img src="result/laplacian_dliation_case_object_classification.gif">
+  <img src="result/rgb_case_object_classification.gif", width=49%>
+  <img src="result/canny_case_object_classification.gif", width=49%><br>
+  <img src="result/sobel_case_object_classification.gif", width=49%>
+  <img src="result/laplacian_dliation_case_object_classification.gif", width=49%>
 </p>
 
 ## Pose Estimation
-### RGB
+### RGB / Canny / Sobel 
 
 <p align="center">
-<img src="result/rgb_case_pose_estimation.gif">
-</p>
-
-### Canny
-
-<p align="center">
-<img src="result/canny_case_pose_estimation.gif">
-</p>
-
-### Sobel
-
-<p align="center">
-<img src="result/sobel_case_pose_estimation.gif">
+  <img src="result/rgb_case_pose_estimation.gif", width=33%>
+  <img src="result/canny_case_pose_estimation.gif", width=33%>
+  <img src="result/sobel_case_pose_estimation.gif", width=33%>
 </p>
 
 ## Framework
 
 <p align="center">
 <img src="docs/framework.png">
-</p>
-
-## Experiment
-
-<p align="center">
-<img src="docs/experiment.png">
 </p>
 
 ## Failure Case - Pose Estimation
